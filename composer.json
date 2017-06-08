@@ -1,5 +1,5 @@
 {
-  "name": "connyay/PseudoCrypt",
+  "name": "felixmaier1989/pseudo-crypt",
   "type": "library",
   "description": "Composer friendly version of http://web.archive.org/web/20130727034425/http://blog.kevburnsjr.com/php-unique-hash ",
   "keywords": [
